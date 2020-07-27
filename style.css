@@ -1,0 +1,25 @@
+body{
+    
+    background-color: rgba(255,192,205,0.3);
+    
+}
+
+.stButton>button {
+    color: red;
+    background-color: '#FFC0CB'
+    text-align: center;
+    align-content: center;
+    text-decoration-color: black;
+    padding: 2em;
+    height: 4em;
+    width: 15em;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(100,0,0,0.5), 0 6px 20px 0 rgba(0,100,0,0.5);
+}
+
+h2{
+    font-style: 'Nunito';
+}
+h6{
+    font-style: 'Nunito';
+}
